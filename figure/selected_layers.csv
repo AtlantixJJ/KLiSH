@@ -1,0 +1,18 @@
+stylegan2_bedroom,[9, 11, 13],896
+stylegan2_church,[9, 11, 13],896
+
+stylegan2_car,[9, 11, 13, 15],960
+ada_cat,[9, 11, 13, 15],960
+ada_dog,[9, 11, 13, 15],960
+ada_wild,[9, 11, 13, 15],960
+
+pggan_bedroom,[7, 9, 11, 13],960
+pggan_church,[7, 9, 11, 13],960
+stylegan_bedroom,[7, 9, 11, 13],960
+stylegan_church,[7, 9, 11, 13],960
+
+stylegan_celebahq,[9, 11, 13, 15, 17],496
+pggan_celebahq,[9, 11, 13, 15, 17],496
+ada_metface,[9, 11, 13, 15, 17],992
+stylegan2_ffhq,[9, 11, 13, 15, 179],992
+

@@ -1,0 +1,28 @@
+{
+    "seed": {
+        "stylegan2_car": 1991,
+        "stylegan2_ffhq": 1993,
+        "stylegan2_bedroom": 1994,
+        "stylegan2_church": 1990,
+        "pggan_church": 1992,
+        "stylegan_bedroom": 1992,
+        "stylegan_church": 1992,
+        "ada_cat": 1994,
+        "ada_dog": 1992,
+        "ada_wild": 1993,
+        "ada_metface": 1992
+    },
+    "n_cluster": {
+        "stylegan2_ffhq": 26,
+        "stylegan2_car": 14,
+        "stylegan2_bedroom": 18,
+        "stylegan2_church": 11,
+        "pggan_church": 14,
+        "stylegan_bedroom": 16,
+        "stylegan_church": 15,
+        "ada_cat": 7,
+        "ada_dog": 9,
+        "ada_wild": 22,
+        "ada_metface": 18
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        ".", "models", "predictors"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}

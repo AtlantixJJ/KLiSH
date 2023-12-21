@@ -1,0 +1,70 @@
+{
+    "models": {
+        "Cat": {
+            "model_name": "ada_cat_klish_512",
+            "model_dir": "thirdparty/spade/checkpoints/",
+            "data_dir": "data/web_collection",
+            "n_class": 7,
+            "gpu": 9,
+            "image_size": [
+                512,
+                512
+            ]
+        },
+        "Car": {
+            "model_name": "stylegan2_car_klish_512",
+            "model_dir": "thirdparty/spade/checkpoints/",
+            "data_dir": "data/web_collection",
+            "n_class": 12,
+            "gpu": 9,
+            "image_size": [
+                512,
+                384
+            ]
+        },
+        "Dog": {
+            "model_name": "ada_dog_klish_512",
+            "model_dir": "thirdparty/spade/checkpoints/",
+            "data_dir": "data/web_collection",
+            "n_class": 9,
+            "gpu": 9,
+            "image_size": [
+                512,
+                512
+            ]
+        },
+        "Face": {
+            "model_name": "stylegan2_ffhq_klish_512",
+            "model_dir": "thirdparty/spade/checkpoints/",
+            "data_dir": "data/web_collection",
+            "n_class": 26,
+            "gpu": 8,
+            "image_size": [
+                512,
+                512
+            ]
+        },
+        "MetFace": {
+            "model_name": "ada_metface_klish_512",
+            "model_dir": "thirdparty/spade/checkpoints/",
+            "data_dir": "data/web_collection",
+            "n_class": 18,
+            "gpu": 8,
+            "image_size": [
+                512,
+                512
+            ]
+        },
+        "Wild": {
+            "model_name": "ada_wild_klish_512",
+            "model_dir": "thirdparty/spade/checkpoints/",
+            "data_dir": "data/web_collection",
+            "n_class": 22,
+            "gpu": 8,
+            "image_size": [
+                512,
+                512
+            ]
+        }
+    }
+}
